@@ -25,18 +25,4 @@
 - Node.js
 - MongoDB
 
-###Installation 
-####npm install
--cors
--express
--nodemon
--dotenv
--socket.io
--mongoose
--react-router-dom
-
-
-
-
-
-
+- **npm install cors express nodemon dotenv socket.io mongoose react-router-dom
