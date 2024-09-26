@@ -24,5 +24,4 @@
 ### Prerequisites
 - Node.js
 - MongoDB
-
-- **npm install cors express nodemon dotenv socket.io mongoose react-router-dom
+- npm install cors express nodemon dotenv socket.io mongoose react-router-dom
