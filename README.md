@@ -25,7 +25,8 @@
 - Node.js
 - MongoDB
 
-###Installation
+###Installation 
+####npm install
 -cors
 -express
 -nodemon
